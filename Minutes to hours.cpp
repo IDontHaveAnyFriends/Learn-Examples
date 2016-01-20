@@ -1,6 +1,6 @@
 #include "stdafx.h"                                                   //I'm currently learning c++, which I find hard to do.
 #include <Windows.h>                                                  //This is just some example code from my book, I changed it in
-#include <iostream>                                                     such a way that the user is able to store data in 'minuten'//
+#include <iostream>                                                   //such a way that the user is able to store data in 'minuten'
 #include "String.h"                                                   //The program will then calculate how many hours it is
 #include <ctime>                                                      
 #include <cstdlib>
