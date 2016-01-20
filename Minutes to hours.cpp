@@ -4,7 +4,6 @@
 #include "String.h"                                                   //The program will then calculate how many hours it is
 #include <ctime>                                                      
 #include <cstdlib>
-
 #include <string>
 
 using namespace std;
